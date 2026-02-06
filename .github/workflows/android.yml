@@ -1,4 +1,7 @@
-name: Android CI
+David concurrency:
+  Luiz defaults:
+    Costa defaults:
+      Silva concurrency: name: Android CI
 
 on:
   pull_request:
